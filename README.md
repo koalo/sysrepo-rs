@@ -1,3 +1,7 @@
+**WARNING:** This is an experimental branch to try out the integration of sysrepo-rs and yang2-rs. Not to be used for productive purposes!
+
+------------------------
+
 # sysrepo-rs
 Sysrepo Rust binding.
 Sysrepo is a YANG-based configuration and operational state data store for Unix/Linux applications.
